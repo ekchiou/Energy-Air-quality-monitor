@@ -97,6 +97,7 @@ CO2- από το διοξείδιο του άνθρακα.
 
 Αναφορές
 
+  https://drive.google.com/file/d/1dmUcZpEUjEuXGqg8yiJj8ybF2pW4HEma/view?usp=sharing
   https://el.wikipedia.org/wiki/%CE%A3%CF%8D%CE%BC%CE%B2%CE%B1%CF%83%CE%B7-%CE%A0%CE%BB%CE%B1%CE%AF%CF%83%CE%B9%CE%BF_%CF%84%CF%89%CE%BD_%CE%97%CE%BD%CF%89%CE%BC%CE%AD%CE%BD%CF%89%CE%BD_%CE%95%CE%B8%CE%BD%CF%8E%CE%BD_%CE%B3%CE%B9%CE%B1_%CF%84%CE%B9%CF%82_%CE%9A%CE%BB%CE%B9%CE%BC%CE%B1%CF%84%CE%B9%CE%BA%CE%AD%CF%82_%CE%9C%CE%B5%CF%84%CE%B1%CE%B2%CE%BF%CE%BB%CE%AD%CF%82 
   http://openergy.okfn.gr/#/pages/eu2020-targets
   http://www.wwf.gr/footprint/
