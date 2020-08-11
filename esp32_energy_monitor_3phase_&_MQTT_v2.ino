@@ -10,12 +10,11 @@ and on Rui Santos projects repository at https://randomnerdtutorials.com
 #include <PubSubClient.h>
 
 // Replace the next variables with your SSID/Password combination
-const char* ssid = "SKInet";
-const char* password = "9AB7B742BE";
+const char* ssid = "xxxxx";
+const char* password = "xxxxxxxxx";
 
 // Add your MQTT Broker IP address, example:
-//const char* mqtt_server = "192.168.1.144";
-const char* mqtt_server = "192.168.1.70";
+const char* mqtt_server = "192.168.1.xxxxx";
 
 WiFiClient espClient2;
 PubSubClient client(espClient2);
