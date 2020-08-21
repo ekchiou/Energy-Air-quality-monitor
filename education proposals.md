@@ -30,3 +30,5 @@ https://easyeda.com/siliadakis/esp32-energy-monitor_copy
 Ειδικότητα: Τεχνικός Ηλεκτρονικών και Υπολογιστικών Συστημάτων, Εγκαταστάσεων, Δικτύων και Τηλεπικοινωνιών 
 Μάθημα: Ρομποτική
 
+Οδηγός εγκατάστασης πρόσθετων για τους μικροελεγκές στο Ardduino IDE:   
+https://github.com/ekchiou/Energy-Air-quality-monitor/blob/master/%CE%95%CE%B3%CE%BA%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7%20ESP8266%20Board%20%CF%83%CE%B5%20Arduino%20IDE.pdf
