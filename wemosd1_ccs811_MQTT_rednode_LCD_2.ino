@@ -27,11 +27,11 @@ CCS811 cc811Sensor(CCS811_ADDR);
 
 LiquidCrystal_I2C lcd = LiquidCrystal_I2C(0x27,16,2);    // Άλλαξε σε (0x27,16,2) για 16x2 LCD.(Change to (0x27,16,2) for 16x2 LCD.)
 
-#define WIFI_SSID "SKInet"
-#define WIFI_PASSWORD "9AB7B742BE"
+#define WIFI_SSID "XXXXXX"
+#define WIFI_PASSWORD "XXXXXXXXXX"
 
 // Raspberri Pi Mosquitto MQTT Broker
-#define MQTT_HOST IPAddress(192, 168, 1, 70)
+#define MQTT_HOST IPAddress(192, 168, 1, XXXXXX )
 // For a cloud MQTT broker, type the domain name
 //#define MQTT_HOST "example.com"
 #define MQTT_PORT 1883
